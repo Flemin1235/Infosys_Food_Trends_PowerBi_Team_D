@@ -9,12 +9,12 @@ Through seven analytical dashboard pages, the project delivers insights into cus
   
 <h4>Project Files</h4>  
   
-Team_Members_PPT  - contains individual ppts of team members
-Group_PPT - the group ppt of the team
-Microsoft Power BI Project File(.pbix) - the Power Bi file containing 7 pages
-Internship_Completion_Report - the finalized report of the entire internship journey
-license - the license of the project
-readme.md - the short description of the project
+Team_Members_PPT  - contains individual ppts of team members  
+Group_PPT - the group ppt of the team  
+Microsoft Power BI Project File(.pbix) - the Power Bi file containing 7 pages  
+Internship_Completion_Report - the finalized report of the entire internship journey  
+license - the license of the project  
+readme.md - the short description of the project  
   
 <h4>Key Features</h4>  
   
