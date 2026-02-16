@@ -1,5 +1,5 @@
 <h2>Infosys Springboard Virtual Internship 6.0</h2>  
-<h2>Data Visualization Batch - 11</h2>  
+<h2>Data Visualization Group - 1 Batch - 11</h2>  
   
 <h3>Food Trends Understanding Customer Preferences</h3>  
   
