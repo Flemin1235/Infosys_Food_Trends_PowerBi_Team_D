@@ -21,10 +21,10 @@ understand <b>customer segments</b>, and make <b>data-driven decisions</b> relat
 
 <h2>📁 Project Files</h2>
 <ul>
-  <li><b>📑 Team_Members_PPT</b> – Contains individual PPTs of team members</li>
+  <li><b>📑 Team_mem_PPT</b> – Contains individual PPTs of team members</li>
   <li><b>📊 Group_PPT</b> – The group presentation of the team</li>
-  <li><b>📂 Microsoft Power BI Project File (.pbix)</b> – Power BI file containing 7 dashboard pages</li>
-  <li><b>📝 Internship_Completion_Report</b> – Finalized report of the entire internship journey</li>
+  <li><b>📂 Food_Trends_Dashboard</b> – Power BI file containing 7 dashboard pages</li>
+  <li><b>📝 Infosys Springboard Virtual Internship report</b> – Finalized report of the entire internship journey</li>
   <li><b>📜 License</b> – License of the project</li>
   <li><b>📘 readme.md</b> – Short description of the project</li>
 </ul>
