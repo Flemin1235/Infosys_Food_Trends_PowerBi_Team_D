@@ -25,8 +25,8 @@ understand <b>customer segments</b>, and make <b>data-driven decisions</b> relat
   <li><b>📊 Group_PPT</b> – The group presentation of the team</li>
   <li><b>📂 Food_Trends_Dashboard</b> – Power BI file containing 7 dashboard pages</li>
   <li><b>📝 Infosys Springboard Virtual Internship report </b> – Finalized report of the entire internship journey</li>
-  <li><b>📜 License</b> – License of the project</li>
-  <li><b>📘 readme.md</b> – Short description of the project</li>
+  <li><b>📜 LICENSE</b> – License of the project</li>
+  <li><b>📘 README.md</b> – Short description of the project</li>
 </ul>
 
 <hr>
