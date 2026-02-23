@@ -22,7 +22,8 @@ understand <b>customer segments</b>, and make <b>data-driven decisions</b> relat
 <h2>📁 Project Files</h2>
 <ul>
   <li><b>📑 Team_mem_PPT</b> – Contains individual PPTs of team members</li>
-  <li><b>📊 Group_PPT</b> – The group presentation of the team</li>
+  <li><b>📑 Data_Set</b> – Contains Data  Used in the Project</li>
+  <li><b>📊 Group_PPT.ppt</b> – The group presentation of the team</li>
   <li><b>📂 Food_Trends_Dashboard.pbix</b> – Power BI file containing 7 dashboard pages</li>
   <li><b>📝 Infosys Springboard Virtual Internship report.pdf </b> – Finalized report of the entire internship journey</li>
   <li><b>📜 LICENSE</b> – License of the project</li>
